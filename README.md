@@ -9,7 +9,7 @@
 <br><br>
 > 제가 직접 코딩하지 않고 오픈소스 코드를 사용하는 몇가지 기능도 존재합니다.   
 > 해당 기능들은 업로드하지 않습니다.   
-> ex) `와쨩` 농장 명령어, 인벤 `제이드스칼렛`님의 무기 추가옵션 정리본, 스타포스 수치 정리본 등등
+> ex) `와쨩` 농장 명령어, 인벤 `제이드스칼렛`님의 무기 추가옵션, 스타포스 수치 계산 코드 등등
 <br>
 
 ### TODO   
@@ -21,14 +21,6 @@
 - Java 모듈 사용한 파일 읽기 함수 카톡봇 자체 api인 FileStream으로 변경 (불확실)
 - 주사위는 고칠 예정 없음
    
-<br>
-
-## 카카오링크 관련
-
-DarkTornado 님의 모듈 사용   
-바로가기 : [KakaoLink.js][link]
-
-[link]: https://github.com/DarkTornado/KakaoLink.js "DarkTornado Github repository"
 
 <br><br>
 ### 예티조아!
